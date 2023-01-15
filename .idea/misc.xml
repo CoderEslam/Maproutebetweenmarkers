@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/Maproutebetweenmarkers/app/src/main/res/layout/activity_main.xml" value="0.14444444444444443" />
         <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/Maproutebetweenmarkers/app/src/main/res/layout/activity_maps.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/Maproutebetweenmarkers/app/src/main/res/xml/network_security_config.xml" value="0.1" />
       </map>
     </option>
   </component>
